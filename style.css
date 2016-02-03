@@ -1,4 +1,47 @@
+@import url(https://fonts.googleapis.com/css?family=Cinzel:400,700,900);
+@import url(https://fonts.googleapis.com/css?family=Kaushan+Script);
+@import url(https://fonts.googleapis.com/css?family=Bangers);
+
+
+h1 {
+  font-family: "kaushan Script", sans-serif;
+  font-size: 38px;
+}
+
+p {
+  font-weight: 900;
+  font-size: 20px;
+}
+
 h2 {
   color: mediumspringgreen;
   font-style: italic;
+  font-weight: normal;
+}
+
+body {
+  font-family: "Cinzel", sans-serif;
+  background-color: slategrey;
+  font-weight: 400;
+}
+
+h4 {
+  color: maroon;
+  font-size: 28px;
+}
+
+#jerksauce {
+  background-color: white;
+  color: #934FFF;
+}
+
+#directions {
+  font-family: "Bangers", sans-serif;
+  color: lightpink;
+  font-size: 25px;
+}
+
+h3 {
+  color: lightblue;
+  font-size: 32px;
 }
