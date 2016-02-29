@@ -1,0 +1,243 @@
+@import url(https://fonts.googleapis.com/css?family=Sigmar+One);
+@import url(https://fonts.googleapis.com/css?family=Pinyon+Script);
+@import url(https://fonts.googleapis.com/css?family=Freckle+Face);
+@import url(https://fonts.googleapis.com/css?family=Rock+Salt);
+@import url(https://fonts.googleapis.com/css?family=Poiret+One);
+@import url(https://fonts.googleapis.com/css?family=Shadows+Into+Light);
+
+#bigbackground {
+  background-color: ;
+}
+
+#test {
+  color: #FFA07A;
+
+}
+div{
+  width:100px;
+  margin:10px;
+  padding:200px;
+  background-color: silver;
+  float: left;
+  border: 2px dotted purple;
+}
+
+h1 {
+  color: darkblue;
+  background-color: #c6d43c;
+  width: 1200px;
+  margin-left: -15px;
+  text-align: right;
+}
+
+em {
+color: #EDDA74;
+background-color: ;
+font-size: 20px
+}
+
+h2 {
+  color: cyan;
+  background-color: lime;
+  font-size: 43px;
+  font-weight: 400;
+font-family: 'Pinyon Script', cursive;
+margin-bottom: -10px;
+width: 1000px
+
+}
+
+h3{
+font-size: 27px;
+width: 1200px;
+margin: 2px;
+color: white;
+background-color: yellow
+
+}
+
+#background1 {
+  color: olive;
+background-color: red;
+}
+
+#jabberwock {
+text-align: right;
+border: 30px dashed magenta;
+}
+
+ol {
+  font-family: 'Sigmar One', cursive;
+  font-weight: 400;
+  color: pink;
+ background-color: #FFDB58;
+}
+
+a {
+  font-size: 90px;
+color: orange;
+background-color: #7FFFD4;
+font-family: 'Rock Salt', cursive;
+}
+
+#background2 {
+ color: #B8860B;
+ background-color: #6B8E23;
+}
+
+h4 {
+  font-size: 8px;
+  margin: 0px;
+  border: 2px solid #000080;
+}
+
+#background3 {
+  background-color: black;
+  color: #FF4500;
+}
+
+h5 {
+  padding: 1px;
+border-bottom: 90px dotted #FFDEAD;
+margin-top: 0px;
+}
+
+#Walrus {
+  width: 2000px;
+  float: right;
+  background-color: blue;
+}
+
+ul {
+  margin:0px;
+  color: #3CB371;
+  background-color: #BA55D3;
+}
+
+#Walrus2 {
+  width:20px;
+  color: #90EE90;
+  background-color: #DEB887;
+}
+
+#divy {
+  width: 100px;
+  padding: 100px;
+  border: 10px dotted #FFE619;
+  float:right;
+  background-color: #FF33CC;
+}
+
+#oysters {
+  text-align: right;
+  margin-bottom: -13px;
+  font-size: 90px;
+  font-family: 'Freckle Face', cursive;
+  color: #ADD8E6;
+  background-color: lawngreen;
+
+}
+
+#background4 {
+  width: 1000px;
+  color: #6B00DB;
+  background-color: purple;
+}
+
+#div1 {
+  font-family: cursive;
+  padding-right: 400px;
+  border: 17px dashed #BF404C;
+  width:450px;
+  color: #996600;
+  background-color: #CC4C4C;
+}
+
+#div2{
+  font-size: 40px;
+  padding:400px;
+  color: #5C4538;
+  background-color: #1F1757;
+}
+
+#div3 {
+  margin:100px;
+  width:300px;
+  color: #736673;
+  background: #0D660D;
+
+}
+
+h6 {
+  text-decoration: overline;
+  float: right;
+  margin-top: -100px;
+  width:35px;
+  color: #4CFFB2;
+  background: #3873AB;
+
+}
+
+#div4 {
+  margin-bottom: -6px;
+  color: #660066;
+  background-color: #003300;
+
+}
+
+#space{
+  font-size: 40px;
+  color: #2E6600;
+  background-color: #996600;
+  font-family: 'Poiret One', cursive;
+}
+
+#test2 {
+  margin:10px;
+  width: 500px;
+  color: #FAEBE6;
+  background-color: #003366;
+font-family: 'Shadows Into Light', cursive;
+border-top: 60px solid darkkhaki;
+
+}
+
+#test3 {
+  text-decoration: underline;
+  color: peachpuff;
+  background-color: lemonchiffon;
+  text-align: center;
+
+}
+
+strong {
+
+  margin:700px;
+  color: #99B200;
+  border-top: 30px solid darkred;
+  border-right: 50px solid darkgreen;
+  border-left: 10px solid darkblue;
+  border-bottom: 70px dotted darkorange;
+
+}
+
+#test4 {
+
+  letter-spacing: 20px;
+  color: #999900;
+  background-color: #333300;
+
+}
+
+#background5 {
+  padding: 50px;
+  color: steelblue;
+  background-color: #800000;
+
+}
+
+p {
+  text-decoration: overline;
+  font-size: 15px;
+  color: brown;
+}
