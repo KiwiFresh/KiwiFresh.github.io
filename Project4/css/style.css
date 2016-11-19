@@ -1,0 +1,103 @@
+@import url(https://fonts.googleapis.com/css?family=Lobster);
+@import url(https://fonts.googleapis.com/css?family=Chelsea+Market);
+@import url(https://fonts.googleapis.com/css?family=Nunito);
+
+body{
+  background-color: #d3d3d3;
+  font-family: 'Nunito', sans-serif;
+}
+
+h1 {
+  background-color: #00c2e1;
+  font-size: 50px;
+  font-family: 'Lobster', cursive;
+  padding: 10px;
+  text-align: center;
+  border-bottom: 2px solid black;
+}
+
+p {
+  text-align: justify;
+}
+
+a {
+  margin: 10px;
+
+  border: 2px black solid;
+}
+
+
+}
+h2{
+  text-align: center;
+  font-family: 'Chelsea Market', cursive;
+
+  padding: 8px 10px 8px 15px;
+border-top: 4px solid #00c2e1;
+border-bottom: 4px solid #00c2e1;
+}
+
+nav {
+  font-family: 'Chelsea Market', cursive;
+  height: 500px;
+  padding: 10px;
+  width: 200px;
+}
+
+.col-md-3 img {
+  height: 200px;
+  width: 200px;
+}
+
+img {
+  margin-top: 20px;
+  height:397px ;
+  width:594px ;
+}
+
+.header {
+  font-family: 'Chelsea Market', cursive;
+  height: 57px;
+  text-align: center;
+position: relative;
+width: 190px;
+font-size: 100%;
+font-weight: 300;
+text-transform: uppercase;
+padding: 8px 10px 8px 15px;
+margin: 10px 0px 20px 0px;
+color: white;
+background-color: #00c2e1;
+}
+
+li {
+  padding: 3px;
+  list-style-type: none;
+}
+
+a{
+  width: 190px;
+  text-align: center;
+  display: block;
+text-decoration: none;
+color: black;
+padding: 5px 4px;
+}
+
+a:hover{
+  background-color: yellow;
+  text-decoration: none;
+}
+
+ul {
+  padding: 0px;
+}
+
+
+
+footer{
+  margin-top: 20px;
+  background-color: #00c2e1;
+  padding: 5px;
+  border-top: 2px solid black;
+}
