@@ -17,10 +17,12 @@ h1 {
 }
 
 p {
+  padding: 5px;
   text-align: justify;
 }
 
 a {
+
   margin: 10px;
 
   border: 2px black solid;
